@@ -7,7 +7,7 @@ set termout on
 set feedback on
 set pagesize 200
 
--- create views
+-- create and output views
 
 create or replace view q1 as
   select distinct givenName || ' ' || familyName as name, salary
@@ -134,6 +134,8 @@ select * from q9;
 -- column model heading "Model";
 -- select * from q10;
 
+-- NOTE: did not end up needing the procedures
+
 -- create or replace
 -- procedure discount
 -- is
@@ -147,7 +149,6 @@ select * from q9;
 -- 	-- replace this line with your third PL/SQL procedure
 -- end;
 -- /
-
 
 -- create or replace
 -- procedure policy_rework_list 

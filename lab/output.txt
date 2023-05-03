@@ -1,0 +1,162 @@
+SQL> @proj3
+
+NAME                       SALARY                                               
+-------------------- ------------                                               
+William Tanaka          $92300.00                                               
+Hai Lu                  $96600.00                                               
+Chung Isaacson          $89900.00                                               
+Eric Edwards            $78400.00                                               
+Julie Tang              $88000.00                                               
+Kit Goh                 $78900.00                                               
+Mark Zhang              $81000.00                                               
+Henry Lai               $90400.00                                               
+Lachlan Ma              $86400.00                                               
+Ronald Lai              $97400.00                                               
+Mark Saad               $77000.00                                               
+James Baker             $94200.00                                               
+Yin Korth               $81700.00                                               
+Benjamin Au             $86500.00                                               
+Jun Tsang               $89800.00                                               
+Lap Le                  $95900.00                                               
+Wai Yao                 $91500.00                                               
+Catherine Brown         $79000.00                                               
+
+18 rows selected.
+
+
+NAME                 ADDRESS                                                    
+-------------------- ----------------------------------------                   
+Julian Silberschatz  Queen St, Bunya, QLD, 4055                                 
+Ching Le             York St, Gilberton, VIC, 3072                              
+Ka Leung             Park St, Chartwell, VIC, 3030                              
+Nicholas Ng          Waratah St, Ashgrove, QLD, 4060                            
+Wai Smith            Gum Ln, Gilberton, VIC, 3072                               
+Marcus Chung         Kings Rd, Ashgrove, QLD, 4060                              
+
+6 rows selected.
+
+
+NAME                                                                            
+--------------------                                                            
+Albert James                                                                    
+Wing Young                                                                      
+Mark Saad                                                                       
+
+3 rows selected.
+
+
+       Total                                                                    
+       Money                                                                    
+   Collected                                                                    
+------------                                                                    
+    $9361.63                                                                    
+
+1 row selected.
+
+
+       Total                                                                    
+       Money                                                                    
+    Paid Out                                                                    
+------------                                                                    
+  $392494.03                                                                    
+
+1 row selected.
+
+
+NAME                                                                            
+--------------------                                                            
+Ben Elmasri                                                                     
+Duy Young                                                                       
+Deborah Kim                                                                     
+
+3 rows selected.
+
+
+    POLICY                                                                      
+----------                                                                      
+    543324                                                                      
+    543577                                                                      
+    543582                                                                      
+    543635                                                                      
+    543985                                                                      
+    544059                                                                      
+    544140                                                                      
+    544423                                                                      
+    544470                                                                      
+    544585                                                                      
+    544632                                                                      
+    544741                                                                      
+    544926                                                                      
+    545090                                                                      
+    545266                                                                      
+    545326                                                                      
+    545440                                                                      
+    545486                                                                      
+    545531                                                                      
+    545904                                                                      
+    546004                                                                      
+    546082                                                                      
+    546222                                                                      
+    546502                                                                      
+    546642                                                                      
+    546899                                                                      
+    547061                                                                      
+    547258                                                                      
+    547483                                                                      
+    547521                                                                      
+    547893                                                                      
+    547921                                                                      
+    548484                                                                      
+    548504                                                                      
+    548690                                                                      
+    548955                                                                      
+    549027                                                                      
+    549048                                                                      
+
+38 rows selected.
+
+
+MAKE         MODEL           #                                                  
+------------ ------------ ----                                                  
+Alfa         Romeo           2                                                  
+Datsun       120Y            4                                                  
+Datsun       240Z            2                                                  
+Datsun       Bluebird        5                                                  
+Ford         Fairlane        3                                                  
+Ford         Falcon          7                                                  
+Ford         Festiva         3                                                  
+Ford         Futura          6                                                  
+Ford         Laser           4                                                  
+Holden       Barina          5                                                  
+Holden       Commodore       1                                                  
+Honda        Accord          4                                                  
+Honda        CRX             2                                                  
+Honda        Civic           8                                                  
+Honda        Legend          1                                                  
+Honda        Prelude         7                                                  
+Mazda        Astina          4                                                  
+Mitsubishi   Magna           4                                                  
+Mitsubishi   Mirage          5                                                  
+Nissan       Pulsar          7                                                  
+Subaru       Forester        3                                                  
+Subaru       Impreza         2                                                  
+Toyota       Corolla         4                                                  
+Volkswagen   Golf            2                                                  
+
+24 rows selected.
+
+
+Employee             Employee                                                   
+Holding              Processing                                                 
+Policy               Policy                                                     
+-------------------- --------------------                                       
+Wing Young           William Strachan                                           
+Albert James         Elaine Widom                                               
+Mark Saad            Donald Date                                                
+Mark Saad            Eric Edwards                                               
+Albert James         Wai Yao                                                    
+Wing Young           Elaine Widom                                               
+Albert James         Ming Zhang                                                 
+Wing Young           Ronald Lai                                                 
+
+8 rows selected.
